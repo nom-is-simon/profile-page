@@ -69,7 +69,7 @@ function Footer() {
             <a className='social-icon-link github' href = "https://github.com/nom-is-simon" target='_blank'>
               <i className='fab fa-github' />
             </a>
-            <a className='social-icon-link linkedin' href = "https://www.linkedin.com/in/hongxiang-he-777578220/" target='_blank'>
+            <a className='social-icon-link linkedin' href = "https://www.linkedin.com/in/hongxiang-he/" target='_blank'>
               <i className='fab fa-linkedin' />
             </a>
             {/* <Link className='social-icon-link instagram' to='/' target='_blank' aria-label='Instagram'>
