@@ -19,7 +19,7 @@ function Cards() {
             <CardItem src='images/sorcery.webp' 
               text='This was my first group project! I collaborated with two other students on Github following the software development lifecycle. This was also my first project where memory had to be carefully considered.' 
               label='Sorcery (C++)' />
-            <CardItem src='images/profilepage.png' autoPlay loop muted
+            <CardItem src='images/profilePage.png' autoPlay loop muted
               text="This is my most recent project (you're on this page right now!) applying my learnings from the Angular webpage tutorial. I would say this is my most aesthetically pleasing project yet!" 
               label='Profile Page (React, JavaScript, HTML, CSS)' />
             {/* <CardItem src='images/img-8.jpg' 
