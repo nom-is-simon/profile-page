@@ -15,7 +15,7 @@ function App() {
           <Route exact path='/' Component={Home}/>
           <Route path='/services' Component={Services} />
           <Route path='/products' Component={Products} />
-          <Route path='/sign-up' Component={SignUp} />
+          <Route path='/about-me' Component={SignUp} />
         </Routes>
       </Router>
     </>
